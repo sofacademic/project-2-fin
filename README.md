@@ -1,4 +1,5 @@
 # Project Title
+Caterpillar Convention Website
 
 ## Project Description
 This is a mock-up design for a website dedicated to a caterpillar-based convention.
