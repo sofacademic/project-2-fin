@@ -27,9 +27,9 @@ I was inspired by the Goblin Market and the Clearwater Marine Aquarium's website
 
 ## Credits
 List any tutorials, assets, images, icons, fonts, tools, or outside resources used.
-FONT: https://online-fonts.com/fonts/arial-rounded-mt
-CODE INFO: https://www.w3schools.com/
-Caterpillar Image: https://www.treehugger.com/thmb/HgPdeBe6hAy55EK5FUJY4hjTh0o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2018__07__Papilio_troilus_larva-1647beeb80bb4a5e8fc26413858a1cf9.jpg
+- FONT: https://online-fonts.com/fonts/arial-rounded-mt
+- CODE INFO: https://www.w3schools.com/
+- Caterpillar Image: https://www.treehugger.com/thmb/HgPdeBe6hAy55EK5FUJY4hjTh0o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2018__07__Papilio_troilus_larva-1647beeb80bb4a5e8fc26413858a1cf9.jpg
 
 ## Future Improvements
 What would you improve or add with more time?
